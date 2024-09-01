@@ -1,0 +1,27 @@
+D:\Programacion\Progra 1\FT\Planilla de pago\bin\Debug\net6.0-windows\Planilla de pago.exe
+D:\Programacion\Progra 1\FT\Planilla de pago\bin\Debug\net6.0-windows\Planilla de pago.deps.json
+D:\Programacion\Progra 1\FT\Planilla de pago\bin\Debug\net6.0-windows\Planilla de pago.runtimeconfig.json
+D:\Programacion\Progra 1\FT\Planilla de pago\bin\Debug\net6.0-windows\Planilla de pago.dll
+D:\Programacion\Progra 1\FT\Planilla de pago\bin\Debug\net6.0-windows\Planilla de pago.pdb
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.csproj.AssemblyReference.cache
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla_de_pago.Form1.resources
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.csproj.GenerateResource.cache
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.AssemblyInfoInputs.cache
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.AssemblyInfo.cs
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.csproj.CoreCompileInputs.cache
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.dll
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\refint\Planilla de pago.dll
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.pdb
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.genruntimeconfig.cache
+D:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\ref\Planilla de pago.dll
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.csproj.AssemblyReference.cache
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla_de_pago.Form1.resources
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.csproj.GenerateResource.cache
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.AssemblyInfoInputs.cache
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.AssemblyInfo.cs
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.csproj.CoreCompileInputs.cache
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.dll
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\refint\Planilla de pago.dll
+F:\Programacion\Progra 1\FT\Planilla de pago\obj\Debug\net6.0-windows\Planilla de pago.pdb

@@ -1,0 +1,15 @@
+C:\Users\Sistemas30\source\repos\AppArchivo\bin\Debug\net6.0\AppArchivo.exe
+C:\Users\Sistemas30\source\repos\AppArchivo\bin\Debug\net6.0\AppArchivo.deps.json
+C:\Users\Sistemas30\source\repos\AppArchivo\bin\Debug\net6.0\AppArchivo.runtimeconfig.json
+C:\Users\Sistemas30\source\repos\AppArchivo\bin\Debug\net6.0\AppArchivo.dll
+C:\Users\Sistemas30\source\repos\AppArchivo\bin\Debug\net6.0\AppArchivo.pdb
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\AppArchivo.csproj.AssemblyReference.cache
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\AppArchivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\AppArchivo.AssemblyInfoInputs.cache
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\AppArchivo.AssemblyInfo.cs
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\AppArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\AppArchivo.dll
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\refint\AppArchivo.dll
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\AppArchivo.pdb
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\AppArchivo.genruntimeconfig.cache
+C:\Users\Sistemas30\source\repos\AppArchivo\obj\Debug\net6.0\ref\AppArchivo.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planilla de pago", "Planilla de pago.csproj", "{013F3FF4-5BF7-4C08-87A8-E23A684FD6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013F3FF4-5BF7-4C08-87A8-E23A684FD6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013F3FF4-5BF7-4C08-87A8-E23A684FD6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013F3FF4-5BF7-4C08-87A8-E23A684FD6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013F3FF4-5BF7-4C08-87A8-E23A684FD6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8418656A-7E11-477C-94E4-F37FB4975F11}
+	EndGlobalSection
+EndGlobal
